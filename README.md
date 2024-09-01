@@ -13,4 +13,9 @@ C. **Programming Language:** Java Script is used to build the program.
 
 ## ✍️ Documentation
 <p>The result of this program is an email blast containing a summary quiz to the HoD, Chief, and GRC Lead</p>
-<img src="email-lead.png" alt="Result" width="800"/>
+
+1. Lead Email
+<img src="email-lead.png" alt="Email Lead" width="400"/>
+
+2. Chief Email
+<img src="email-chief.png" alt="Chief Lead" width="400"/>
